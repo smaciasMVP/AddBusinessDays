@@ -1,0 +1,11 @@
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\bin\Debug\AddBusinnessDays.dll
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\bin\Debug\AddBusinnessDays.pdb
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\bin\Debug\Microsoft.IdentityModel.dll
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\obj\Debug\AddBusinnessDays.dll
+C:\Proyects\Neovia\AddBusinnessDays\AddBusinnessDays\obj\Debug\AddBusinnessDays.pdb
